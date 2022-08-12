@@ -13,14 +13,14 @@
       "sizes": "512x512"
     }
   ],
-  "scope": "/",
+  "scope": ".",
   "start_url": "/index.html",
   "display": "standalone",
   "theme_color": "#1786de",
   "background_color": "#137dd1",
   "orientation": "portrait-primary",
   "prefer_related_applications": true,
-  "description": "Progressive Web Application by Michael Stattelman.",
+  "description": "Waterlab Payroll System by Ogie Castro",
   "dir": "ltr",
   "lang": "en-US"
 }
