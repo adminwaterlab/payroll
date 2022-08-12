@@ -1,6 +1,6 @@
 {
   "short_name": "PWA",
-  "name": "Progressive Web Application",
+  "name": "Waterlab Payroll Facility",
   "icons": [
     {
       "src": "/img/icons/android-icon-192x192.png",
@@ -14,7 +14,7 @@
     }
   ],
   "start_url": "/?utm_source=homescreen",
-  "background_color": "#FF0000",
+  "background_color": "#16A0EF",
   "scope": ".",
   "display": "standalone",
   "orientation": "portrait-primary",
@@ -22,5 +22,5 @@
   "description": "Progressive Web Application by Michael Stattelman.",
   "dir": "ltr",
   "lang": "en-US",
-  "theme_color": "#FF0000"
+  "theme_color": "#16A0EF"
 }
