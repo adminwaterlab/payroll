@@ -1,5 +1,5 @@
 {
-  "short_name": "PWA",
+  "short_name": "WLP",
   "name": "Waterlab Payroll Facility",
   "icons": [
     {
@@ -13,14 +13,14 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "/?utm_source=homescreen",
-  "background_color": "#16A0EF",
-  "scope": ".",
+  "scope": "/",
+  "start_url": "/index.html",
   "display": "standalone",
+  "theme_color": "#1786de",
+  "background_color": "#137dd1",
   "orientation": "portrait-primary",
   "prefer_related_applications": true,
   "description": "Progressive Web Application by Michael Stattelman.",
   "dir": "ltr",
-  "lang": "en-US",
-  "theme_color": "#16A0EF"
+  "lang": "en-US"
 }
