@@ -30,9 +30,3 @@ self.addEventListener('fetch', function(event){
   console.log('[Service Worker] Fetch initiated.....',event);
   event.respondWith(fetch(event.request));
 });
-
-let deferredPrompt;
-
-window.addEventListener('beforeinstallprompt', (e) => {
-    deferredPrompt = e;
-});
